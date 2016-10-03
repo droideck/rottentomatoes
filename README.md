@@ -1,6 +1,8 @@
 # Rotten Tomatoes Search Via Context Menu
 This Chrome (and Chromium) extension allows to search on Rotten Tomatoes using the context menu
 
+![screenshot](https://raw.githubusercontent.com/droideck/rottentomatoes/master/screenshot.jpg)
+
 # Install
 1. Clone the repo
 2. Go to 'chrome://extensions/'
